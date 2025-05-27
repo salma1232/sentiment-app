@@ -1,70 +1,47 @@
 text,label
-"Le modèle a atteint une excellente précision sur le jeu de test.",positive
-"L'implémentation de la régularisation a nettement amélioré la robustesse du modèle.",positive
-"Le projet propose une solution innovante et efficace pour la classification des données.",positive
-"L'analyse des données a permis de mieux comprendre les variables importantes.",positive
-"L'optimisation des hyperparamètres a conduit à de bonnes performances.",positive
-"Ce projet m'a beaucoup appris sur les concepts de machine learning appliqués.",positive
-"Le modèle montre des signes de surapprentissage, ce qui limite sa généralisation.",negative
-"Le jeu de données est trop petit, ce qui restreint la capacité du modèle à apprendre.",negative
-"La complexité du modèle rend difficile son interprétation et sa maintenance.",negative
-"La précision obtenue n'est pas encore satisfaisante pour une utilisation en production.",negative
-"Le prétraitement des données est insuffisant, ce qui impacte la qualité des résultats.",negative
-"Peu d'algorithmes ont été testés, limitant la portée des conclusions du projet.",negative
-"Le modèle est rapide à entraîner et offre de bonnes performances en temps réel.",positive
-"L’intégration des données externes a permis d’enrichir le dataset et d’améliorer la précision.",positive
-"La documentation du projet est claire et bien structurée, facilitant la compréhension.",positive
-"L’utilisation de la validation croisée a permis de mieux évaluer la robustesse du modèle.",positive
-"Le pipeline de traitement est automatisé, ce qui simplifie les itérations d’apprentissage.",positive
-"Les résultats sont reproductibles grâce à une gestion rigoureuse des versions des données.",positive
-"Le modèle est trop simple et ne capture pas toute la complexité des données.",negative
-"Il manque une analyse approfondie des erreurs pour comprendre les faiblesses du modèle.",negative
-"Le jeu de données contient beaucoup de valeurs manquantes non traitées correctement.",negative
-"Le temps de calcul est trop long pour un usage pratique en production.",negative
-"Le choix des métriques n’est pas adapté au problème étudié, ce qui fausse l’évaluation.",negative
-"L’absence de tests unitaires complique la maintenance du code.",negative
-"Le surajustement aux données d’entraînement conduit à une mauvaise performance sur les nouvelles données.",negative
-"La stratégie de feature engineering est limitée, ce qui freine les performances du modèle.",negative
-"Le modèle manque d’explicabilité, ce qui pose problème pour la prise de décision.",negative
-"La collaboration entre les membres de l’équipe est bien organisée, ce qui accélère le développement.",positive
-"L’utilisation de bibliothèques modernes a permis d’optimiser le temps de développement.",positive
-"La modularité du code facilite les futures extensions du projet.",positive
-"Les visualisations des données sont pertinentes et aident à mieux comprendre les résultats.",positive
-"Le projet pourrait bénéficier d’une meilleure gestion des ressources informatiques.",negative
-"Le pipeline de traitement manque d’automatisation et nécessite beaucoup d’intervention manuelle.",negative
-"Le modèle n’a pas été testé sur des données provenant d’autres sources, ce qui limite la généralisation.",negative
-"La documentation manque de détails sur certains choix méthodologiques importants.",negative
-"Le modèle souffre d’un déséquilibre des classes dans les données, impactant la précision.",negative
-"The model achieved excellent accuracy on the test set.",positive
-"Implementing regularization significantly improved the model’s robustness.",positive
-"The project offers an innovative and effective solution for data classification.",positive
-"Data analysis helped identify important features for the model.",positive
-"Hyperparameter tuning led to significant performance improvements.",positive
-"This project helped me learn a lot about applied machine learning concepts.",positive
-"The model shows signs of overfitting, limiting its generalization ability.",negative
-"The dataset is too small, restricting the model's learning capacity.",negative
-"The model’s complexity makes it hard to interpret and maintain.",negative
-"The accuracy is not yet sufficient for production use.",negative
-"Data preprocessing is insufficient, negatively impacting the results.",negative
-"Few algorithms were tested, limiting the project’s conclusions.",negative
-"Le modèle est facile à déployer et s’intègre bien dans l’environnement existant.",positive
-"La méthodologie utilisée est rigoureuse et bien documentée.",positive
-"Les résultats sont cohérents avec les attentes initiales du projet.",positive
-"L’utilisation de techniques de réduction de dimensionnalité a amélioré la performance.",positive
-"Le projet a permis une meilleure compréhension des données complexes.",positive
-"Le modèle est robuste face aux données bruitées.",positive
-"Les performances du modèle dépassent celles des benchmarks connus.",positive
-"Le code est bien structuré et suit les bonnes pratiques de programmation.",positive
-"Le modèle ne prend pas en compte certaines variables importantes.",negative
-"Le temps d’entraînement est trop élevé pour être exploitable en production.",negative
-"Les résultats manquent de stabilité entre différents runs.",negative
-"Le projet n’a pas suffisamment pris en compte la qualité des données.",negative
-"Le modèle est trop dépendant des données d’entraînement spécifiques.",negative
-"Les explications fournies sur les choix techniques sont insuffisantes.",negative
-"Le pipeline de traitement n’est pas assez flexible pour intégrer de nouveaux jeux de données.",negative
-"Des erreurs dans le code ont causé des résultats incohérents.",negative
-"La validation croisée n’a pas été correctement implémentée.",negative
-"Le modèle ne gère pas bien les données déséquilibrées.",negative
-"Le projet manque de comparaisons avec d’autres méthodes existantes.",negative
-"Les données utilisées contiennent beaucoup de bruit non filtré.",negative
-
+"J’ai été profondément touché par la sensibilité de ce film, chaque scène semblait empreinte d’une sincérité rare.",positive
+"Je ne comprends pas comment ce film a pu obtenir de bonnes critiques, c’était long, confus et complètement dénué d’intérêt.",negative
+"Ce que j’ai adoré dans ce film, c’est la capacité du réalisateur à transmettre autant d’émotions sans tomber dans le mélodrame.",positive
+"Je n’ai jamais été aussi déçu par un scénario : tout semblait artificiel, bâclé, et absolument prévisible.",negative
+"La bande-son, les décors et la performance des acteurs m'ont littéralement transporté, c’est une œuvre magistrale.",positive
+"Je n’ai pas réussi à m’immerger une seule seconde dans cette histoire sans âme ni direction, c'était insupportable.",negative
+"Chaque minute passée devant ce film était un véritable plaisir, j’aurais voulu que ça ne se termine jamais.",positive
+"Malgré quelques moments intéressants, je n’ai pas pu ignorer le manque flagrant de cohérence dans la narration.",negative
+"Ce film est sans doute l’un des plus beaux hommages à la nature humaine que j’ai vus depuis des années.",positive
+"Je me suis ennuyé du début à la fin, et même les scènes censées être intenses n’ont provoqué aucune émotion chez moi.",negative
+"Franchement, j’ai adoré ce film, c’était simple mais super bien fait.",positive
+"Je n’ai pas trop accroché, je me suis un peu ennuyé au bout d’un moment.",negative
+"Les acteurs jouent super bien, on y croit du début à la fin.",positive
+"Je comprends pas pourquoi tout le monde en fait tout un plat, c’est pas terrible.",negative
+"C’est exactement le genre de film que j’aime regarder le soir, calme et touchant.",positive
+"J’ai trouvé ça long et un peu vide, j’attendais beaucoup plus.",negative
+"Une belle surprise, je ne m’attendais pas à aimer autant.",positive
+"Honnêtement, j’ai perdu mon temps, rien ne m’a vraiment intéressé.",negative
+"Très bon moment, j’ai rigolé, j’ai été ému, c’était top.",positive
+"Le début était prometteur mais ça part dans tous les sens, j’ai pas compris la fin.",negative
+"I really love this movie, it made me feel so good.",positive
+"I don’t like the way the story ended, it was kind of bad.",negative
+"This was a good film, nothing amazing but I enjoyed it.",positive
+"I hate slow movies, and this one was just too boring.",negative
+"I like the characters, they felt real and relatable.",positive
+"I didn’t understand what was going on, it was a mess.",negative
+"The music was good and the scenes were beautiful.",positive
+"I don’t think I’ll watch this again, it wasn’t great.",negative
+"Such a good surprise, I didn’t expect to love it that much!",positive
+"It looked promising but ended up being really bad.",negative
+"The movie was good, I enjoyed it.",positive
+"The movie was not good, I was disappointed.",negative
+"It’s not bad, but I expected more.",positive
+"Honestly, it’s bad and I don’t recommend it.",negative
+"I really like the main character, she was great.",positive
+"I don’t like how it ended, it felt rushed.",negative
+"It’s a good film to watch on a weekend.",positive
+"This is not a good movie, the acting was terrible.",negative
+"The plot is not bad, it just needed more depth.",positive
+"Bad script, bad acting, just bad overall.",negative
+"Good story, good pacing, I liked it a lot.",positive
+"I thought it would be good, but it wasn’t.",negative
+"Not bad at all, I was surprised in a good way.",positive
+"I don’t love it, but it’s okay for one time.",negative
+"Really good job by the director, well done!",positive
+"I expected something good, but it turned out bad.",negative
