@@ -42,3 +42,7 @@ text,label
 "La chambre dhôtel était sale et mal entretenue",negative
 "j'ai aimé ce film",positive
 "it's not bad",positif
+"i like you",positif
+"You are not good",negatif
+"i don't like you",negatif
+
