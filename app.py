@@ -2,8 +2,8 @@ import streamlit as st
 import joblib
 
 # Charger le modèle et le vectoriseur
-model = joblib.load(r"C:\Users\USER\Documents\monprojetmaching\model_svm.pkl")
-vectorizer = joblib.load(r"C:\Users\USER\Documents\monprojetmaching\vectorizer.pkl")
+model = joblib.load("model_svm.pkl")
+vectorizer = joblib.load("vectorizer.pkl")
 
 st.set_page_config(page_title="Prédiction d'Opinion", layout="centered")
 st.title("🧠 Prédiction d'Opinion (SVM)")
