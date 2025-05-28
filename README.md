@@ -30,7 +30,8 @@ Le modèle prédit alors si le sentiment exprimé est positif ou négatif, avec 
   -  🧹 Nettoyage et prétraitement des données textuelles (suppression de la ponctuation, passage en minuscules, etc.)
   - 🧮 Vectorisation des données textuelles avec TF-IDF
   - 🤖 Entraînement d’un modèle de classification binaire avec LinearSVC
-  - 📊 Évaluation de performances à l’aide de métriques classiques (accuracy, F1-score)
+  - 📊  Evaluation du modèle à l’aide de la fonction classification_report de sklearn.metrics
+  - 🚀 Réalisation de l'application streamlit qui charge le modèle entraîné et le vectoriseur sauvegardés
   - 🌐 Déploiement de l’application via Streamlit Cloud, permettant un hébergement facile et une interface utilisateur accessible en ligne pour tester des prédictions en temps réel
 ## ✅ 3. Architecture du projet
 
@@ -46,7 +47,7 @@ Le projet est organisé autour de trois fichiers principaux :
   Script Python qui effectue la préparation des données, la vectorisation avec TF-IDF, puis l’entraînement du modèle de classification binaire **(LinearSVC)** . Ce script sauvegarde ensuite à la fois le modèle entraîné (model_svm.pkl) et le vectoriseur TF-IDF **(vectoriser.pkl)**, nécessaires pour transformer les nouveaux textes lors des prédictions.
   - app.py : 
 
-Application Streamlit qui charge le modèle et le vectoriseur sauvegardés, puis propose une interface utilisateur interactive. L’utilisateur peut saisir un texte en français ou en anglais, qui est d’abord vectorisé avant que le modèle ne prédise si le sentiment est positif ou négatif.
+Application Streamlit qui charge le modèle entraîné et le vectoriseur sauvegardés, puis propose une interface utilisateur interactive. L’utilisateur peut saisir un texte en français ou en anglais, qui est d’abord vectorisé avant que le modèle ne prédise si le sentiment est positif ou négatif.
 
 ## 📊 Résultats
 
