@@ -37,7 +37,7 @@ Le modèle prédit alors si le sentiment exprimé est positif ou négatif, avec 
   - 🌐 Déploiement de l’application via Streamlit Cloud, permettant un hébergement facile et une interface utilisateur accessible en ligne pour tester des prédictions en temps réel
 ## ✅ 3. Architecture du projet
 
-![Texte alternatif](https://github.com/salma1232/sentiment-app/blob/829e4b4626131bff4a8f71f156638bbe135a15b0/captured.PNG)
+![Texte alternatif](https://github.com/salma1232/sentiment-app/blob/c5a3f663ab440adb2e1a583ca2cd6037d3dc52c7/captureprojet.PNG)
 
 Le projet est organisé autour de trois fichiers principaux :
   
