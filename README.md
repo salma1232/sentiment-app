@@ -55,7 +55,7 @@ Application Streamlit qui charge le modèle et le vectoriseur sauvegardés, puis
 
 Après toutes ces étapes, y compris l'entraînement du modèle et l'hébergement via Streamlit Cloud, j’ai obtenu une application que tout le monde peut utiliser directement en ligne grâce à une URL publique.
 
-![Texte alternatif](capturedd.png)
+![Texte alternatif](https://github.com/salma1232/sentiment-app/blob/589dfb0376dea5c5d91337a3046bc7bcfb80950d/Capturedd.PNG)
 ![Texte alternatif](capturej.png)
 
 
