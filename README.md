@@ -27,10 +27,7 @@ Le modèle prédit alors si le sentiment exprimé est positif ou négatif, avec 
  ## ✅ 3. Les étapes réalisées dans le projet
 
   
-  
-  - 🧠 Compréhension du traitement automatique du langage naturel (NLP)
-  
-  -  🧹 Compréhension du traitement automatique du langage naturel (NLP)
+  -  🧹 🧹 Nettoyage et prétraitement des données textuelles (suppression de la ponctuation, passage en minuscules, etc.)
   - 🧮 Vectorisation des données textuelles avec TF-IDF
   - 🤖 Entraînement d’un modèle de classification binaire avec LinearSVC
   - 📊 Évaluation de performances à l’aide de métriques classiques (accuracy, F1-score)
