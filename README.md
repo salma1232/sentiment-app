@@ -19,8 +19,7 @@ Le modèle prédit alors si le sentiment exprimé est positif ou négatif, avec 
 
 - **Données utilisées** :
   - Un fichier CSV personnalisé de phrases contenant des opinions en français et en anglais, annotées manuellement comme `positive` ou `negative`
-  - Les données couvrent des critiques de films, des avis émotionnels et des commentaires courts
-
+  
 - **Modèle entraîné** :
   - ** Support Vector Machine linéaire (LinearSVC)** 
   
