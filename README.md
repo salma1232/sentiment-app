@@ -5,7 +5,7 @@
 Ce projet propose une application de classification automatique de sentiments à partir de textes en langage naturel, rédigés en français ou en anglais.
 L’objectif est de construire un pipeline complet de deep learning, de la collecte des données à l’entraînement du modèle, jusqu’à la mise en ligne d’une interface utilisateur interactive via Streamlit.
 
-L’utilisateur peut saisir une opinion, une critique ou un commentaire dans l’une des deux langues.
+L’utilisateur peut saisir une opinion dans l’une des deux langues.
 Le modèle prédit alors si le sentiment exprimé est positif ou négatif, avec une réponse instantanée.
 
 ## ✅ 2. Modalité et cas d’usage
